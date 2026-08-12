@@ -7,7 +7,7 @@
 <h1 align="center">TorjAnHub v1.1.0.4</h1>
 
 <p align="center">
-  A powerful Roblox script hub designed for an enhanced experience.
+  TorjAnHub - version v1.1.0.4
 </p>
 
 ---
