@@ -20,19 +20,19 @@ loadstring(game:HttpGet("https://torjanhub.netlify.app"))()
 
 ---
 
-## Features
+## Script Info
 
-* Fast and lightweight
-* Easy to execute
-* Regular updates
-* Simple loading system
+* Cmds
+* Moves 18+
+* Fling - AntiFling
+* Copy Game
 * Designed for Roblox
 
 ---
 
 ## Loadstring
 
-Use the following loadstring to execute TorjAnHub:
+Script : 
 
 ```lua
 loadstring(game:HttpGet("https://torjanhub.netlify.app"))()
