@@ -4,7 +4,7 @@
   <img src="TorjAn/TorjAn.png" width="300">
 </p>
 
-<h1 align="center">TorjAnHub v1.1.0.4</h1>
+<h1 align="center">TorjAnHub</h1>
 
 <p align="center">
   version v1.1.0.4
